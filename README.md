@@ -320,7 +320,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Média 3</td>
-                <td><a href="https://github.com/alexrogeriodj/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%233%20.NET/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/alexrogeriodj/desafios-DIO-ALL/tree/master/Desafios/C%20Sharp/Desafios%20B%C3%A1sicos%20-%20GFT%20Start%20%233%20.NET/M%C3%A9dia%203">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
