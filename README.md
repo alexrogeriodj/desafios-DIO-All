@@ -6534,6 +6534,6 @@ Siga os passos abaixo para contribuir:
 
 O projeto lançado em 2018  sobre a licença [MIT](./LICENSE) ❤️ 
 
-Made with ♥ by Alex Rogério (2022)
+Made and created with ♥ by Alex Rogério (2022) - 王娇罗心心  - Wáng Jiāo Luō XīnXīn
 
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
