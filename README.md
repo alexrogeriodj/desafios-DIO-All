@@ -1,4 +1,4 @@
-<h1 align="center">Desafios e Soluções dos Bootcamps da Digital Innovation One :books:</h1>
+<h1 align="center">Desafios e Soluções, Cursos, Projetos dos Bootcamps da Digital Innovation One :books:</h1>
  
 <!--Banner session-->
 <p align="center">
